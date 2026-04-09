@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-
+<img src="images/awesome.png" alt="Awesome" style="float: right; margin: 0 0 15px 20px; width: 200px;">
 
 Hi! I'm just a student so dont expect much...🚀
 
